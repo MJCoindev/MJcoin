@@ -1,0 +1,9 @@
+Building MJCoin
+
+See doc/readme-qt.rst for instructions on building MJCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MJCoin.
+
+See doc/build-*.txt for instructions on building mjcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MJCoin.
